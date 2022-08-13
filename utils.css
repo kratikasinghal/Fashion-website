@@ -1,0 +1,21 @@
+.flex{
+  display:flex;
+    flex-direction: row;
+    text-align: center;
+}
+.items-center{
+  align-items:center;
+}
+.justify-center{
+  justify-content:center;
+}
+.space-around{
+  justify-content: space-between;
+}
+.uppercase{
+  text-transform:uppercase;
+}
+.mx-2{
+  margin-left: 12px;
+  margin-right: 12px;
+}
